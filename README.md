@@ -1,27 +1,18 @@
-## Hi there!  
+# Hi, I’m Rawnak Tahmid 
 
-I'm **Rawnak Tahmid**, an explorer of technology, innovation, and problem-solving. My journey spans web development, AI, and beyond, always fueled by curiosity and creativity.  
+I like learning things, building stuff, playing games, and trying new ideas. Sometimes I’m focused, sometimes I’m not—but I keep experimenting and improving through real projects.
 
-### 🔹 My current learnings  
-- web Development & Design  
-- Exploring Machine Learning & AI  
-- Researching & Experimenting with Technology  
-- Building Creative & Fun Projects  
+## What I’m Working On
+- Learning coding and algorithms
+- Testing new tools and software
+- Building my own solutions for different problems
 
-### 🚀 Future Focus   
-- Diving deeper into AI and data science  
-- Expanding my skills in problem-solving and algorithmic thinking  
-- Developing unique and engaging projects  
+## What I Want to Improve
+- Fixing syntax errors and broken logic
+- Better UI design
+- Getting better at logic and problem solving
+- Building projects that actually work and help people
 
-### 🤝 Open to Ideas & Discussions
-I strongly believe that growth comes from learning, sharing, and constructive conversations. Whether it’s a fresh perspective, a creative coding tip, or an insightful discussion about emerging tech, I’m always eager to hear from others.
+## Latest Project
+🔹 Study Anchor — A smart solution for moder distractions
 
-💬 Feel free to share any friendly developmental advice or just drop by for a tech talk—I’d love to connect!
-
-### My latest project 
-
-**Backdot** - Your Intelligent Periodic Table Assistant
-
-Backdot is an interactive AI-powered robot designed to guess chemical elements based on user responses. By asking a series of structured yes/no questions, it intelligently narrows down the possibilities and identifies the element you're thinking of.
-
-Review my project on Github: https://github.com/RawnakTahmid/Backdot/blob/main/README.md
