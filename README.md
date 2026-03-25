@@ -1,19 +1,19 @@
 # Hi, I’m Rawnak Tahmid 
 
-I like learning things, building stuff, playing games, and trying new ideas. Sometimes I’m focused, sometimes I’m not—but I keep experimenting and like to develop naturally through my active works.
+I enjoy learning, building, and exploring new ideas. Some days I’m focused, some days I’m not—but I keep experimenting and growing through what I create.
 
-## What I’m Working On
-- Learning coding and algorithms
-- Testing new tools and software
-- Building my own solutions for different problems
-- Creating small, sometimes weird but unique projects
+---
 
-## What I Want to Improve
-- Errors, bugs and broken code structure
-- Better UI design
-- logic and problem solving
-- Building projects that actually work and help myself
+## Current Focus
+- Pseudocode, algorithms, networking, and server management  
+- Mastering C, C++, C#, Python, and the Linux kernel  
+- Hands-on with Git, Figma, and Unity  
+- Solving real-world problems with creative projects  
+
+---
 
 ## Latest Project
-🔹 Study Anchor — A smart solution for moder distractions
+🔹 Study Anchor — A smart solution for modern distractions
+
+
 
