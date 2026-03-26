@@ -13,7 +13,7 @@ I enjoy learning, building, and exploring new ideas. Some days I’m focused, so
 ---
 
 ## Latest Project
-🔹 Study Anchor — A smart solution for modern distractions
+🔹 Study Anchor — A smart browser extension for modern distractions 
 
 
 
