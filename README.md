@@ -7,7 +7,7 @@ I enjoy learning, building, and exploring new ideas. Some days I’m focused, so
 ## Current Focus
 - Pseudocode, algorithms, networking, and server management  
 - Mastering C, C++, C#, Python, and the Linux kernel  
-- Hands-on with Git, Figma, and Unity  
+- Hands-on with Git, Figma
 - Solving real-world problems with creative projects  
 
 ---
