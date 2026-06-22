@@ -2,6 +2,8 @@
 
 I enjoy learning, building, and exploring new ideas. Some days I’m focused, some days I’m not—but I keep experimenting and growing through what I create.
 
+[My Portfolio](https://rawmid.github.io/portfolio/)
+
 ---
 
 ## Current Focus
