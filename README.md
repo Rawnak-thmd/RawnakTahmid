@@ -10,7 +10,8 @@ I enjoy learning, building, and exploring new ideas. Some days I’m focused, so
 - Pseudocode, algorithms, networking, and server management  
 - Mastering C, C++, C#, Python, and the Linux kernel  
 - Hands-on with Git, Figma
-- Solving real-world problems with creative projects  
+- Solving real-world problems with creative projects
+- Playing games with my friends 
 
 ---
 
